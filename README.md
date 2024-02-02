@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 # Module-1-Challenge
-<!-- GIVEN a webpage meets accessibility standards
+GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
 
@@ -15,4 +15,4 @@ THEN they fall in sequential order
 
 WHEN I view the title element
 THEN I find a concise, descriptive title
-END -->
+END
