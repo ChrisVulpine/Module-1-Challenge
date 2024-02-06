@@ -8,4 +8,4 @@ original HTML and CSS files making them follow better acccessiblity standards to
 
 ## Deployed Application
 [INSERT LINK HERE]
-![ScreenShot](01-html-css-git-homework-demo.png)
+![Screenshot](Develop/assets/images/01-html-css-git-homework-demo.png)
