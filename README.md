@@ -6,7 +6,7 @@ original HTML and CSS files making them follow better acccessiblity standards to
 
 ## Deployed Application
 https://chrisvulpine.github.io/Module-1-Challenge/
-![Screenshot](Develop/assets/images/01-html-css-git-homework-demo.png)
+![Screenshot](assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
 Alternative tags for <div> - https://www.geeksforgeeks.org/10-alternatives-to-the-div-html-tag/
